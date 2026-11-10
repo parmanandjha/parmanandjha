@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f" class="ascii">
+<tspan x="15" y="30">                                        </tspan>
+<tspan x="15" y="50">               mj1c#|                   </tspan>
+<tspan x="15" y="70">           ct|ppMd%b$q#f@n              </tspan>
+<tspan x="15" y="90">           %b$q#p@d%w$qhM@1             </tspan>
+<tspan x="15" y="110">          @d%w$qhM@Wbwk#hMdW            </tspan>
+<tspan x="15" y="130">         hM@Wbwk#hMdWb$q#p@dr           </tspan>
+<tspan x="15" y="150">        |#hMdWb$q#p@drw$qhp@W           </tspan>
+<tspan x="15" y="170">         q#pjk%wxv!f-~,#|#hMn           </tspan>
+<tspan x="15" y="190">         xq!fj1r.    -'cx|#p            </tspan>
+<tspan x="15" y="210">         tkz,.-',x  ,mn',;qw            </tspan>
+<tspan x="15" y="230">        1,$| ,mn',   :j`  h-            </tspan>
+<tspan x="15" y="250">         'tx              :.            </tspan>
+<tspan x="15" y="270">          rt;   .-        '             </tspan>
+<tspan x="15" y="290">            :.-f,nr', `  .              </tspan>
+<tspan x="15" y="310">            W,.`f,.                     </tspan>
+<tspan x="15" y="330">             #|;       ;f               </tspan>
+<tspan x="15" y="350">           @Wcw|z`    xvpp@n            </tspan>
+<tspan x="15" y="370">        k#pMd;c%vpfjnr- vhM@WbwkzwMdW   </tspan>
+<tspan x="15" y="390"> k#pMd%b$q#p@n.-',.    `k#hMdWb$q#p@d%w </tspan>
+<tspan x="15" y="410">b$q#p@d%w$qhM@1c`',;`n1b$q#p@d%w$qhp@W%w</tspan>
+<tspan x="15" y="430">%w$qhM@Wbwk#hMdWb$q#p@d%w$qhp@W%wk#hMdWb</tspan>
+<tspan x="15" y="450">Wbwk#hMdWb$q#p@d%w$qhp@W%wk#hMdWb$k#pMd%</tspan>
+<tspan x="15" y="470">dWb$q#p@d%w$qhp@W%wk#hMdWb$k#pMd%w$qhp@W</tspan>
+<tspan x="15" y="490">@d%w$qhp@W%wk#hMdWb$k#pMd%w$qhp@W%wkqhM@</tspan>
+<tspan x="15" y="510">p@W%wk#hMdWb$k#pMd%w$qhp@W%wkqhM@Wb$k#pM</tspan>
+</text>
+<text x="390" y="30" fill="#24292f">
+<tspan x="390" y="30">parmanand@biratnagar</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 11, Linux (Ubuntu), Android</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">18 years, 9 months, 26 days</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Arniko Awasiya Secondary School</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Class 12 CS · Founder @ Green Flag Club</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">VS Code, Neovim, Windows Terminal</tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, JavaScript, TypeScript, C, C++</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML5, CSS3, Tailwind, SQL, Markdown</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">English, Nepali, Hindi, Maithili</tspan>
+<tspan x="390" y="230" class="cc">. </tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Full-Stack Web, AI Mentorship, Hackathons</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Science</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Physics, Chemistry, Mathematics</tspan>
+<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">parmanandjha030@gmail.com</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">@org.parmanand</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Parmanand Jha</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Community</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Green Flag Club (Biratnagar, Nepal)</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Philosophy</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Curiosity as Litmus Test · Build &amp; Learn</tspan>
+<tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">3</tspan> {<tspan class="key">Target</tspan>: <tspan class="value" id="contrib_data">Class 12 GPA 3.96</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............ </tspan><tspan class="value" id="star_data">0</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................... </tspan><tspan class="value" id="commit_data">9</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">0</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">24,850</tspan> ( <tspan class="addColor" id="loc_add">28,420</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">3,570</tspan><tspan class="delColor">--</tspan> )
+</text>
+</svg>
